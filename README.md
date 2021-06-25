@@ -3,3 +3,7 @@ Spring Data JPA
 Lombok
 Spring Security
 PostgreSQL Driver
+
+
+
+flyway
